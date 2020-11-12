@@ -1,0 +1,33 @@
+body {
+  background-image: url("Untitled (1).jpg");
+}
+
+.login_div1,
+.login_div2 {
+  background: white;
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+#player1,
+#player2 {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+}
+
+.image {
+  float: left;
+  width: 30%;
+  height: 30%;
+}
+
+.container {
+  margin-left: 500px;
+}
+
+#body {
+  background-color: lightskyblue;
+}

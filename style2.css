@@ -1,0 +1,16 @@
+#player1,
+#player2 {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+}
+
+.image {
+  float: left;
+  width: 30%;
+  height: 30%;
+}
+
+#body {
+  background-color: lightskyblue;
+}
